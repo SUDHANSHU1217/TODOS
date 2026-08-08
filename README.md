@@ -15,7 +15,7 @@ https://todo-backend-e0fj.onrender.com/swagger
 
 ## 📦 Repositories
 
-- [Angular Frontend](https://github.com/SUDHANSHU1217/ToDoUI)
+- [Angular Frontend](https://github.com/SUDHANSHU1217/Todo-Frontend)
 - [ASP.NET Core Backend](https://github.com/SUDHANSHU1217/Todo-Backend)
 # 📝 TODOS — Full Stack Todo Management Application
 
